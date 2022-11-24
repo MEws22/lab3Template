@@ -1,0 +1,5 @@
+-- @path CPSML=/cpsml/model/cpsml.ecore
+-- @path CAEX=/cpsml.atl/caex/CAEX.ecore
+
+module cpsml2caex;
+create OUT : CAEX from IN : CPSML;
