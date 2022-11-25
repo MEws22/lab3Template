@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:henshin="http://www.eclipse.org/emf/2011/Henshin" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmi:id="_i2SXsGmhEe27xN1RUzKxTQ" type="Henshin" name="cpsml.henshin_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_DvmXEGmiEe27xN1RUzKxTQ" type="2001" fontName=".AppleSystemUIFont" italic="true" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Dvm-IGmiEe27xN1RUzKxTQ" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Dvm-IWmiEe27xN1RUzKxTQ" type="7001"/>
+    <element xmi:type="henshin:Rule" href="cpsml.henshin#_DvissGmiEe27xN1RUzKxTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DvmXEWmiEe27xN1RUzKxTQ" x="72" y="318" width="581" height="261"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_ETqGYGmiEe27xN1RUzKxTQ" type="2001" fontName=".AppleSystemUIFont" italic="true" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ETqtcGmiEe27xN1RUzKxTQ" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ETqtcWmiEe27xN1RUzKxTQ" type="7001"/>
+    <element xmi:type="henshin:Rule" href="cpsml.henshin#_ETo4QGmiEe27xN1RUzKxTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ETqGYWmiEe27xN1RUzKxTQ" x="67" y="41" width="569" height="171"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_E7lpEGmiEe27xN1RUzKxTQ" type="2001" fontName=".AppleSystemUIFont" italic="true" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_E7lpEmmiEe27xN1RUzKxTQ" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_E7lpE2miEe27xN1RUzKxTQ" type="7001"/>
+    <element xmi:type="henshin:Rule" href="cpsml.henshin#_E7jz4GmiEe27xN1RUzKxTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E7lpEWmiEe27xN1RUzKxTQ" x="905" y="157" width="247" height="153"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_FjBcgGmiEe27xN1RUzKxTQ" type="2001" fontName=".AppleSystemUIFont" italic="true" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_FjBcgmmiEe27xN1RUzKxTQ" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_FjBcg2miEe27xN1RUzKxTQ" type="7001"/>
+    <element xmi:type="henshin:Rule" href="cpsml.henshin#_FjAOYGmiEe27xN1RUzKxTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FjBcgWmiEe27xN1RUzKxTQ" x="1221" y="157" width="245" height="153"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_GOmJEGmiEe27xN1RUzKxTQ" type="2001" fontName=".AppleSystemUIFont" italic="true" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_GOmwIGmiEe27xN1RUzKxTQ" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GOmwIWmiEe27xN1RUzKxTQ" type="7001"/>
+    <element xmi:type="henshin:Rule" href="cpsml.henshin#_GOliAGmiEe27xN1RUzKxTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GOmJEWmiEe27xN1RUzKxTQ" x="905" y="358" width="247" height="158"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_HLdZ8GmiEe27xN1RUzKxTQ" type="2002" fontName=".AppleSystemUIFont" italic="true" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HLdZ8mmiEe27xN1RUzKxTQ" type="5004"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_HLdZ82miEe27xN1RUzKxTQ" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_HLeBAGmiEe27xN1RUzKxTQ" type="3004">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HLeBBGmiEe27xN1RUzKxTQ" source="symbol">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HLeBBWmiEe27xN1RUzKxTQ" key="type" value="UNIT_BEGIN"/>
+        </eAnnotations>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_HLeBAWmiEe27xN1RUzKxTQ"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_HLeBAmmiEe27xN1RUzKxTQ" fontName=".AppleSystemUIFont"/>
+        <element xmi:type="henshin:SequentialUnit" href="cpsml.henshin#_HLJ38GmiEe27xN1RUzKxTQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HLeBBmmiEe27xN1RUzKxTQ" x="15" y="15"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_HLeoEGmiEe27xN1RUzKxTQ" type="3004">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HLeoFGmiEe27xN1RUzKxTQ" source="symbol">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HLeoFWmiEe27xN1RUzKxTQ" key="type" value="UNIT_END"/>
+        </eAnnotations>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_HLeoEWmiEe27xN1RUzKxTQ"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_HLeoEmmiEe27xN1RUzKxTQ" fontName=".AppleSystemUIFont"/>
+        <element xmi:type="henshin:SequentialUnit" href="cpsml.henshin#_HLJ38GmiEe27xN1RUzKxTQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HLeoFmmiEe27xN1RUzKxTQ" x="205" y="15"/>
+      </children>
+    </children>
+    <element xmi:type="henshin:SequentialUnit" href="cpsml.henshin#_HLJ38GmiEe27xN1RUzKxTQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HLdZ8WmiEe27xN1RUzKxTQ" x="1232" y="358" width="239" height="158"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_i2SXsWmhEe27xN1RUzKxTQ"/>
+  <element xmi:type="henshin:Module" href="cpsml.henshin#_i2GxgGmhEe27xN1RUzKxTQ"/>
+  <edges xmi:type="notation:Edge" xmi:id="_HLeoF2miEe27xN1RUzKxTQ" type="4002">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_HLeoGGmiEe27xN1RUzKxTQ" routing="Rectilinear"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_HLeoGWmiEe27xN1RUzKxTQ" fontName=".AppleSystemUIFont"/>
+    <element xmi:type="henshin:SequentialUnit" href="cpsml.henshin#_HLJ38GmiEe27xN1RUzKxTQ"/>
+    <source xmi:type="notation:Node" href="platform:/resource/cpsml.henshin.template/henshin/cpsml.henshin_diagram#_u6h602mjEe27xN1RUzKxTQ"/>
+    <target xmi:type="notation:Node" href="platform:/resource/cpsml.henshin.template/henshin/cpsml.henshin_diagram#_u6h62WmjEe27xN1RUzKxTQ"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HLeoGmmiEe27xN1RUzKxTQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+</notation:Diagram>

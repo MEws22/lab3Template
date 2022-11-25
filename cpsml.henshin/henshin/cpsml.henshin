@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<henshin:Module xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:henshin="http://www.eclipse.org/emf/2011/Henshin" xmi:id="_i2GxgGmhEe27xN1RUzKxTQ">
+  <imports href="../../cpsml/model/cpsml.ecore#/"/>
+  <units xsi:type="henshin:Rule" xmi:id="_DvissGmiEe27xN1RUzKxTQ" name="unLinkNodesFromMBs">
+    <lhs xmi:id="_DvpaYGmiEe27xN1RUzKxTQ" name="Lhs"/>
+    <rhs xmi:id="_DvpaYWmiEe27xN1RUzKxTQ" name="Rhs"/>
+  </units>
+  <units xsi:type="henshin:Rule" xmi:id="_ETo4QGmiEe27xN1RUzKxTQ" name="addFunctionToTopicSensor">
+    <parameters xmi:id="_KPoVkGmiEe27xN1RUzKxTQ" name="topic" kind="IN">
+      <type xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </parameters>
+    <parameters xmi:id="_KPqKwGmiEe27xN1RUzKxTQ" name="returnType" kind="IN">
+      <type xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </parameters>
+    <parameters xmi:id="_KPqKwWmiEe27xN1RUzKxTQ" name="paramName" kind="IN">
+      <type xsi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </parameters>
+    <lhs xmi:id="_ETsioGmiEe27xN1RUzKxTQ" name="Lhs"/>
+    <rhs xmi:id="_ETsioWmiEe27xN1RUzKxTQ" name="Rhs"/>
+  </units>
+  <units xsi:type="henshin:Rule" xmi:id="_E7jz4GmiEe27xN1RUzKxTQ" name="fixCriticalComponents">
+    <lhs xmi:id="_E7neQGmiEe27xN1RUzKxTQ" name="Lhs"/>
+    <rhs xmi:id="_E7neQWmiEe27xN1RUzKxTQ" name="Rhs"/>
+  </units>
+  <units xsi:type="henshin:Rule" xmi:id="_FjAOYGmiEe27xN1RUzKxTQ" name="fixWarningComponents">
+    <lhs xmi:id="_FjDRsGmiEe27xN1RUzKxTQ" name="Lhs"/>
+    <rhs xmi:id="_FjDRsWmiEe27xN1RUzKxTQ" name="Rhs"/>
+  </units>
+  <units xsi:type="henshin:Rule" xmi:id="_GOliAGmiEe27xN1RUzKxTQ" name="fixNodes">
+    <lhs xmi:id="_GOolUGmiEe27xN1RUzKxTQ" name="Lhs"/>
+    <rhs xmi:id="_GOolUWmiEe27xN1RUzKxTQ" name="Rhs"/>
+  </units>
+  <units xsi:type="henshin:SequentialUnit" xmi:id="_HLJ38GmiEe27xN1RUzKxTQ" name="fixAllCPSNodes"/>
+</henshin:Module>
